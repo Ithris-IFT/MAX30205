@@ -1,1 +1,2 @@
-# MAX30205
+# MAX30205 Human Body Temperature Sensor Interfacing with STM32 Microcontroller
+
